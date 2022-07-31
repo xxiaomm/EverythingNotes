@@ -44,9 +44,9 @@ OAuth允许用户提供一个令牌token(能verify但不能changed)，而不是�
 
 
 
-<img src="../Web/images/Authorization/OAuth1.png" width="300" height="220"/> 
-<img src="../Web/images/Authorization/OAuth2.png" width="350" height="220"/>
-<img src="../Web/images/Authorization/OAuth3.png" width="350" height="220"/>
-<img src="../Web/images/Authorization/OAuth4.png" width="300" height="220"/>
+<img src="../Web/images/Authorization/OAuth1.png" width="500px"/> 
+<img src="../Web/images/Authorization/OAuth2.png" width="500px"/>
+<img src="../Web/images/Authorization/OAuth3.png" width="500px"/>
+<img src="../Web/images/Authorization/OAuth4.png" width="500px"/>
 
 
