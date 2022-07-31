@@ -23,7 +23,7 @@ customer <=> **Load Balancer** <=> servers
 header.payload.signature   
 服务器验证身份后生成一个JSON对象并发送回用户:
 ```json
-{s
+{
     "UserName": "Chongchong",
     "Role": "Admin",
     "Expire": "2018-08-08 20:15:56"
@@ -43,18 +43,10 @@ Authorization between servers.
 OAuth允许用户提供一个令牌token(能verify但不能changed)，而不是用户名和密码来访问他们存放在特定服务提供者的数据。每一个令牌授权一个特定的网站（例如，视频编辑网站)在特定的时段（例如，接下来的2小时内）内访问特定的资源（例如仅仅是某一相册中的视频）。这样，OAuth让用户可以授权第三方网站访问他们存储在另外服务提供者的某些特定信息，而非所有内容。
 
 
-<center>
-    <img src="../Web/images/Authorization/OAuth1.png" width="300" height="220"/> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="../Web/images/Authorization/OAuth2.png" width="350" height="220"/>
-<center>
-    
-<center>
-    <img src="../Web/images/Authorization/OAuth3.png" width="350" height="220"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="../Web/images/Authorization/OAuth4.png" width="300" height="220"/>
-<center>
+
+<img src="../Web/images/Authorization/OAuth1.png" width="300" height="220"/> 
+<img src="../Web/images/Authorization/OAuth2.png" width="350" height="220"/>
+<img src="../Web/images/Authorization/OAuth3.png" width="350" height="220"/>
+<img src="../Web/images/Authorization/OAuth4.png" width="300" height="220"/>
 
 
