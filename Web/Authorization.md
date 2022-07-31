@@ -9,7 +9,7 @@
 => **Problem:** cannot deal web app with multiple servers;  
 没有分布式架构，无法支持横向扩展。如果使用一个服务器，该模式完全没有问题。但是，如果它是服务器群集或面向服务的跨域体系结构的话，则需要一个统一的session数据库库来保存会话数据实现共享，这样负载均衡下的每个服务器才可以正确的验证用户身份。
 
-customer <=> **Load Balancer** <=> servers
+customer <=> **Load Balancer** <=> servers     
 <img src="../Web/images/Authorization/Cookie-Session.png" width="500px">
 
 
