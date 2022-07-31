@@ -1,7 +1,7 @@
 
 ## 目录
-- [Cookie-Session](#cookie-session)   
-- [JWT](#jwt)
+- [Cookie-Session](#cookie-sessionsession认证)   
+- [JWT](#jwttoken认证)
 - [OAuth](#oauth)
 
 ## Cookie-Session(session认证)
