@@ -17,23 +17,35 @@ sentences.
 
 ## Great link to learn English.
 
-[Ted](https://www.ted.com/talks)
-[B站 英语老师Lee](https://space.bilibili.com/131058159?share_from=space&share_medium=android&share_plat=android&share_session_id=5ce1fbd4-3fd3-4550-b73a-a9eb26ee03ce&share_source=WEIXIN&share_tag=s_i&timestamp=1665302696&unique_k=asMlLPt)  
+### 演讲谈话类
+[Ted](https://www.ted.com/talks)   
+[60 minutes](https://www.youtube.com/c/60minutes)   
+[The Fifth Estate](https://www.youtube.com/c/cbcfifth)
+
+### 脱口秀类
+
+[The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/c/fallontonight)   
+[conan show]   
+[The Late Show with Stephen Colbert](https://www.youtube.com/c/ColbertLateShow)   
+[The Ellen Show](https://www.youtube.com/c/TheEllenShow)
+
+
+### 课程片段类
+
+[B站: 英语老师Lee](https://space.bilibili.com/131058159)  
 [Rachel's English](https://www.youtube.com/c/rachelsenglish)
 
 [CrashCourse](https://www.youtube.com/c/crashcourse/playlists)
 
 
-## Some great vlogers
-
-### Asians
+### Asians Vlogers
 
 [Jenn Im](https://www.youtube.com/c/clothesencounters)  
 [Chriselle Lim](https://www.youtube.com/c/ChriselleLim)  
 [HJ Evelyn](https://www.youtube.com/c/HJEvelynha)  
 [Lillian Chiu](https://www.youtube.com/c/LillianChiu101)  
 
-### Foreigners
+### Foreigners Vlogers
 
 [Izzy Sealey](https://www.youtube.com/c/IzzySealey)  
 [Pick Up Limes](https://www.youtube.com/c/PickUpLimes)  
@@ -62,3 +74,12 @@ sentences.
 
 
 ### TOEFL
+
+
+### 新闻类
+
+
+
+### BBC planet earth系列
+
+out planet / planet earth 系列
