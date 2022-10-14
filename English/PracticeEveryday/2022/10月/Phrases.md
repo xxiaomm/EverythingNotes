@@ -35,7 +35,11 @@ balance 尾款
 come up with 提出，想出；设法找到/生产所需事物，通常是钱
 > come up with the rest 筹集尾款
 
-
+go out with sb. 和sb谈恋爱
+be into sth. 对sth.感兴趣(口语化表达)
+back off 放弃, 退让
+> You've decided to slow down or back off from one of you goals.
+(commercial) real estate （商业）房地产
 
 
 

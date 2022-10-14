@@ -1,6 +1,6 @@
 
+## Emotional adj.
 
-## Ability
 
 ```plaintext
 capable 能干的
@@ -10,30 +10,6 @@ outrageous 不同寻常的，非凡的；震惊的，无法接受的
 > One of these strands may yet lead to something *pungently*.
 promo 宣传的adj；推广宣传，宣传的广告 n.
 
-
-
-
-```
-
-
-
-
-
-## Identity
-
-```plaintext
-an undergrad 本科生 （口语），全称 undergraduate student
-
-
-
-```
-
-
-
-## Emotional adj.
-
-
-```plaintext
 outrageous 不同寻常的，非凡的；震惊的，无法接受的 -> 
 > One of these strands may yet lead to something *pungently*.
 
@@ -41,8 +17,10 @@ checkered 好坏参半的，坎坷的
 > have a checkered past 有着坎坷的过去
 > checkered history 跌宕起伏的历史
 
-
-
+jealous 嫉妒的
+dumb 愚蠢的
+> play dumb 装傻
+commerical 商业的；广告
 
 ```
 
@@ -50,6 +28,8 @@ checkered 好坏参半的，坎坷的
 ## Noun.
 
 ```plaintext
+an undergrad 本科生 （口语），全称 undergraduate student
+
 masquerade 掩饰，伪装，化妆舞会
 promo 宣传的adj；推广宣传，宣传的广告 n.
 term 术语
@@ -69,6 +49,7 @@ mortal 凡人；终有一死的；极端的，非常厉害的；
 
 storefront 实体/虚拟店铺
 studio 工作室
+Trombone 长号
 ```
 
 
