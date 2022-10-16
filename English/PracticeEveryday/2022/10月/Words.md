@@ -1,28 +1,5 @@
 
-## Emotional adj.
 
-
-```plaintext
-capable 能干的
-organized 有条理的
-masquerade 掩饰，伪装，化妆舞会
-outrageous 不同寻常的，非凡的；震惊的，无法接受的
-> One of these strands may yet lead to something *pungently*.
-promo 宣传的adj；推广宣传，宣传的广告 n.
-
-outrageous 不同寻常的，非凡的；震惊的，无法接受的 -> 
-> One of these strands may yet lead to something *pungently*.
-
-checkered 好坏参半的，坎坷的
-> have a checkered past 有着坎坷的过去
-> checkered history 跌宕起伏的历史
-
-jealous 嫉妒的
-dumb 愚蠢的
-> play dumb 装傻
-commerical 商业的；广告
-
-```
 
 
 ## Noun.
@@ -50,7 +27,48 @@ mortal 凡人；终有一死的；极端的，非常厉害的；
 storefront 实体/虚拟店铺
 studio 工作室
 Trombone 长号
+
+
+chill 寒冷； 放松
+vibe 情绪，气氛，氛围
+drama 戏剧性事件
+> at the moment of high drama 在那个高潮迭起的时刻
+
+rival 对手，情敌
+
 ```
+
+
+## Emotional adj.
+
+
+```plaintext
+capable 能干的
+organized 有条理的
+masquerade 掩饰，伪装，化妆舞会
+outrageous 不同寻常的，非凡的；震惊的，无法接受的
+> One of these strands may yet lead to something *pungently*.
+promo 宣传的adj；推广宣传，宣传的广告 n.
+
+outrageous 不同寻常的，非凡的；震惊的，无法接受的 -> 
+> One of these strands may yet lead to something *pungently*.
+
+checkered 好坏参半的，坎坷的
+> have a checkered past 有着坎坷的过去
+> checkered history 跌宕起伏的历史
+
+jealous 嫉妒的
+dumb 愚蠢的
+> play dumb 装傻
+commerical 商业的；广告
+stubborn 固执的
+
+desperate 拼命的
+teensy 很小的，极小的 
+> a teensy bit of our time and energy 一点点时间和经历
+
+```
+
 
 
 
@@ -67,5 +85,7 @@ seat 安排座位
 squeeze 挤压；挤进
 > squeeze a table 挤挤加张桌子
 
-
+exploit 利用..谋取利益
+land 成功得到
+> 
 ```

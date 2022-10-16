@@ -20,7 +20,8 @@ sentences.
 ### 演讲谈话类
 [Ted](https://www.ted.com/talks)   
 [60 minutes](https://www.youtube.com/c/60minutes)   
-[The Fifth Estate](https://www.youtube.com/c/cbcfifth)
+[The Fifth Estate](https://www.youtube.com/c/cbcfifth)    
+[The Kelly Clarkson Show](https://www.youtube.com/c/kellyclarksonshow)
 
 ### 脱口秀类
 

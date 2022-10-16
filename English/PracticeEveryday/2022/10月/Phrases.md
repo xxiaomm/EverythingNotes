@@ -41,6 +41,14 @@ back off 放弃, 退让
 > You've decided to slow down or back off from one of you goals.
 (commercial) real estate （商业）房地产
 
+get to know sb. 逐渐了解sb.
+put out 出版, 广播, 公布
+lay back 惬意，放松
+in good hands 受到很好的照顾，处理起来没有问题
+art restorer 艺术品修复师
+reach out 为sb提供支持帮助，达成合作；触碰以提起sth；接触，
+show up 出席出现
 
-
+burn sth. down 把sth烧毁
+with all due respect 恕我直言
 ```
