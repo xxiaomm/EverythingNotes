@@ -51,4 +51,12 @@ show up 出席出现
 
 burn sth. down 把sth烧毁
 with all due respect 恕我直言
+
+comfort food 舒心食物(在失意时吃一点就恢复振奋)
+mac(macaroni) and cheese 奶酪通心粉
+from one's persepctive 从sb的角度思考
+in confidence 秘密
+> You were doing something, in condidence, and it never could be revealed.
+come out 说出讲出，消息等为人所知
+ 
 ```

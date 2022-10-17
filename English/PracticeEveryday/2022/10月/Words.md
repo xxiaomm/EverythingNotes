@@ -36,6 +36,11 @@ drama 戏剧性事件
 
 rival 对手，情敌
 
+cab = taxi 出租车
+red eye flight (红眼)夜间航班
+diner 小餐馆
+misgiving 顾虑
+>  did not hesitate to voice his misgivings 没有迟疑说出他的顾虑
 ```
 
 
@@ -67,6 +72,8 @@ desperate 拼命的
 teensy 很小的，极小的 
 > a teensy bit of our time and energy 一点点时间和经历
 
+
+Polish 波兰的/pəʊ/
 ```
 
 
