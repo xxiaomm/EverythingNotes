@@ -58,5 +58,7 @@ from one's persepctive 从sb的角度思考
 in confidence 秘密
 > You were doing something, in condidence, and it never could be revealed.
 come out 说出讲出，消息等为人所知
- 
+vice versa 反之亦然
+
+
 ```
