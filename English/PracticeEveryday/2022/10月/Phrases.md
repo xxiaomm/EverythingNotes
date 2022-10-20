@@ -79,8 +79,8 @@ fell off (the back of) a truck 来路不明的，非法取得的
 > He said he bought it at the market but I think it fell off a truck.
 I am seeing sb. / I'd been seeing sb. 我在和sb谈恋爱
 hang out 闲逛，出去玩
-make a big deal about it 
-
+make a big deal about sth. 夸大/强调sth的重要性
+> Don't make a big deal about it! 不要大惊小怪
 
 
 
