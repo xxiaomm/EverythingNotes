@@ -41,6 +41,15 @@ red eye flight (红眼)夜间航班
 diner 小餐馆
 misgiving 顾虑
 >  did not hesitate to voice his misgivings 没有迟疑说出他的顾虑
+
+herd 同一种类的族群，兽群，牧群
+> So I start to follow the herd.
+
+Rolex 劳力士
+popcorn 爆米花
+
+
+
 ```
 
 
@@ -74,6 +83,16 @@ teensy 很小的，极小的
 
 
 Polish 波兰的/pəʊ/
+
+career 职业的，终身从事的
+corrupt 腐败的，v.破坏
+unrelenting 持续的
+> Unrelenting anxiety can cause panic attacks and heart attacks. 持续的焦虑会早晨恶搞恐慌症和心脏病
+populist 平民主义的, n.平民主义者
+genuine 真的，非伪造的
+
+
+
 ```
 
 
@@ -94,5 +113,20 @@ squeeze 挤压；挤进
 
 exploit 利用..谋取利益
 land 成功得到
-> 
+
+shatter 粉碎，破灭
+> shatter the illusion 幻想破灭
+
+
+```
+
+
+
+## adv
+
+
+```
+boldly 勇敢地，无畏地
+
+
 ```

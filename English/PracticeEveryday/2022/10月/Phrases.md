@@ -60,5 +60,29 @@ in confidence 秘密
 come out 说出讲出，消息等为人所知
 vice versa 反之亦然
 
+round up 使...聚拢起来；(警察士兵)围捕围剿...
+turn upside down 翻个面，翻过来；造成大的变化或混乱
+> Her whole world's been turned upside down.
+> We turn it upside down and use the other side the next day.
+run aggressive campaigns 举办声势浩大的运动
+plan on 打算做
+
+
+sleep in 睡过头
+> That means I can sleep in tomorrow. 那意味着我明天可以睡懒觉了
+heads-up 当心，小心(口语)
+> thanks for the hands-up 多谢提醒
+go up against 遭遇、对抗
+> We go up against another player or another team.
+make a profit 赚钱
+fell off (the back of) a truck 来路不明的，非法取得的
+> He said he bought it at the market but I think it fell off a truck.
+I am seeing sb. / I'd been seeing sb. 我在和sb谈恋爱
+hang out 闲逛，出去玩
+make a big deal about it 
+
+
+
+
 
 ```
