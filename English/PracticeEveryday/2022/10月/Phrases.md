@@ -108,7 +108,18 @@ have no intention of 没打算做..不想做...
 > He said he loved her, but he actually had no intention of marrying her.
 empty threat 虚张声势
 
+go nuts 因为喜悦/生气而疯狂
+> People go nuts for pasta.
+blank check 空白支票
+> I'm signing a blank check. 我要签一张空白支票
+reminiscent of sth 使回忆起，使想起...
+> It's a little bit reminiscent of 1969 when Neil Armstrong walked the moon. 这是人想起1969年Neil Armstrong的月球漫步。 
+manage to do 设法做sth
+> Some people manage to have great ideas and do a great work.
+Stone-Age 石器时代，古老的，原始的
+> Old school, like Stone Age stuff
 
 
 
-```
+
+``i

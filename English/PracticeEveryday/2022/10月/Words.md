@@ -57,6 +57,10 @@ popcorn 爆米花
 abnormal psychology 变态心理学
 multiple personalities 多重人格
 
+popcorn 爆米花 
+Oreos 奥利奥饼干🍪
+pop-pop 外公
+
 ```
 
 
@@ -108,6 +112,11 @@ ambitious 有野心的
 
 insightful 有见地的
 terrified 非常害怕的
+
+stale 不新鲜了
+feminist 女权主义的
+ 
+
 ```
 
 
