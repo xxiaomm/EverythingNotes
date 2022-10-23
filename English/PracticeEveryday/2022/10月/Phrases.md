@@ -2,13 +2,12 @@
 
 
 ```plaintext
+
 blind date 相亲
 blend in 融入
 
 make rounds 巡视(病房)  
 back-to-back 一个接一个的
-
-So much so that 对上文引出一个结果，可以译成因此...
 
 first aid kit 急救包
 drown out 掩盖住，阻隔
@@ -81,6 +80,33 @@ I am seeing sb. / I'd been seeing sb. 我在和sb谈恋爱
 hang out 闲逛，出去玩
 make a big deal about sth. 夸大/强调sth的重要性
 > Don't make a big deal about it! 不要大惊小怪
+
+on behalf of 代表
+sb's strong suit sb不擅长的
+> Biology is not my strong suit. 生物不是我的强项
+the middle of nowhere 荒芜之地
+Can't wait to do 迫不及待做...
+> I can't wait to continue to read everything you create. 我迫不及待继续读你的每一个创作。
+
+
+operation on + 部位 在xx部位做手术
+> I'm gonna have a little operation on my shoulder. 我要在我肩膀做个小手术
+night table 床头柜
+get access to... 进入某地，见到某人某物
+> I was gonna get access to 10 different countries.
+cut off 切断，使隔绝
+> I'm going to cut off all the edges.
+> cut off one's cash flow 切断sb的现金流
+force sb to do 逼迫sb做某事
+> He is gonna force you to deal with the issue.
+
+
+divorce settlement 离婚协议
+mix-up 计划上的差错/失败
+real estate 房地产
+have no intention of 没打算做..不想做...
+> He said he loved her, but he actually had no intention of marrying her.
+empty threat 虚张声势
 
 
 

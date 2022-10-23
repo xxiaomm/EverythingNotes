@@ -1,5 +1,9 @@
 
 
+- [Noun.](#noun)
+- [Emotional adj.](#emotional-adj)
+- [Verb](#verb)
+- [adv](#adv)
 
 
 ## Noun.
@@ -48,7 +52,10 @@ herd 同一种类的族群，兽群，牧群
 Rolex 劳力士
 popcorn 爆米花
 
+(girl) Scouts (女)童子军
 
+abnormal psychology 变态心理学
+multiple personalities 多重人格
 
 ```
 
@@ -92,7 +99,15 @@ populist 平民主义的, n.平民主义者
 genuine 真的，非伪造的
 
 
+wonkey 不稳的，摇晃的；不准的；
+> wonkey climate report 不准确的气候报告
+bourgeois  [ˌbʊrˈʒwɑː] 世俗的，追求名利且庸俗的
+driven 奋发努力的
+ambitious 有野心的
+> He's not driven, he's not ambitious. 
 
+insightful 有见地的
+terrified 非常害怕的
 ```
 
 
@@ -118,6 +133,13 @@ shatter 粉碎，破灭
 > shatter the illusion 幻想破灭
 
 
+waive 宣布放弃权利，宣布取消规则
+> we can waive certain sections of law. 我们可以取消法律的某些章节
+
+consult 咨询
+decline 拒绝，谢绝
+
+
 ```
 
 
@@ -128,5 +150,6 @@ shatter 粉碎，破灭
 ```
 boldly 勇敢地，无畏地
 
-
+halfway 在...的中途，只过了一半
+> This was halfway through the day. 只过了半天
 ```
