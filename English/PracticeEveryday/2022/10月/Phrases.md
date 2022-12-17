@@ -119,7 +119,29 @@ manage to do 设法做sth
 Stone-Age 石器时代，古老的，原始的
 > Old school, like Stone Age stuff
 
+monkey around with 瞎捣鼓
+> Grandpa's still monkeying around with that old radio, but I doubt he'ill get it to work again.
+six-pack 六罐装
+fixer-upper 待修缮的房屋
+
+
+buyer's remorse 买家买后后悔的情绪
+> Despite the tall price tag, I have yet to experience any buyer's remorese. 尽管价格很高，但我还没感到后悔
+scholastic aptitude 学术的才能
+emergency exit 紧急出口
+
+play into sb's hands 因做对手所希望的事，而正中对手下怀
+> The risk with this meeting is that we play into their hands. 这次会面的风险就是我们正中他们下怀。
 
 
 
-``i
+```
+
+
+
+
+
+
+
+
+

@@ -50,6 +50,9 @@ sentences.
 
 ## Asians Vlogers
 
+[Michelle Choi](https://www.youtube.com/user/michellechoii)  
+[SMTOWN](https://www.youtube.com/c/SMTOWN/)  
+[Ruri Ohama](https://www.youtube.com/c/RuriOhama)  
 [Jenn Im](https://www.youtube.com/c/clothesencounters)  
 [Chriselle Lim](https://www.youtube.com/c/ChriselleLim)  
 [HJ Evelyn](https://www.youtube.com/c/HJEvelynha)  

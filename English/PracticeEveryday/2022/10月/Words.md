@@ -1,7 +1,7 @@
 
 
 - [Noun.](#noun)
-- [Emotional adj.](#emotional-adj)
+- [Adjective](#adjective)
 - [Verb](#verb)
 - [adv](#adv)
 
@@ -61,10 +61,28 @@ popcorn 爆米花
 Oreos 奥利奥饼干🍪
 pop-pop 外公
 
+thermostat [ˈθɜːrməstæt] 恒温器
+intercom 对讲机
+bunker 地堡(类似防空洞)
+feud 不和，长期斗争
+> They are in an active blood feud. 他们仍处在世仇中
+
+clip 片段片花；夹子，回形针📎；
+> She held up a butterfly hair clip. 她拿着个鲨鱼夹
+data [ˈdeɪtə / ˈdætə / d tə]
+swing 秋千
+> swing on my swing 荡我的秋千
+
+prosperity 繁荣
+prestige 威望
+> Market thinking have gathered force and gained prestige. 市场思维已经聚集了力量获得了威望
+victory 胜利
+
+
 ```
 
 
-## Emotional adj.
+## Adjective
 
 
 ```plaintext
@@ -115,7 +133,8 @@ terrified 非常害怕的
 
 stale 不新鲜了
 feminist 女权主义的
- 
+
+scary 吓人的 
 
 ```
 
@@ -148,6 +167,16 @@ waive 宣布放弃权利，宣布取消规则
 consult 咨询
 decline 拒绝，谢绝
 
+swear 说脏话
+reignite  [ˌriːɪɡˈnaɪt] 重新燃烧，再点燃
+> How easy it is to reignite that curiosity. 重新燃起好奇是多么简单
+
+erase 删除，抹去
+> erase a memory 删除记忆
+rebuff 断然拒绝
+chew （gum）咀嚼（口香糖）
+brief 给某人指示，像某人介绍情况
+> So now that you've been fully briefed on that. 现在你已经全面了解那件事
 
 ```
 
@@ -161,4 +190,15 @@ boldly 勇敢地，无畏地
 
 halfway 在...的中途，只过了一半
 > This was halfway through the day. 只过了半天
+
+brutally 直截了当地，冷酷无情地
+
+
+
+
 ```
+
+
+
+
+
